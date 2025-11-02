@@ -1,0 +1,2 @@
+# This file keeps empty directories in Git
+# Git doesn't track empty directories, so we add this placeholder file
